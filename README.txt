@@ -1,0 +1,1 @@
+C library that handles the AIA (Alphabetical Index Encryption Algorithm) with files.
