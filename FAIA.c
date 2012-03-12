@@ -46,6 +46,8 @@ int main(int argc, char *argv[]) {
                             if (buffer == database[index])
                                fputc((database[index + 2]), output);
                    }
+            fclose(input);
+            fclose(output);
         
    }
     return 0;   
